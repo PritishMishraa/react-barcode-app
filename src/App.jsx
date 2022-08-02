@@ -12,7 +12,7 @@ function App() {
       background: '#ffffff',
       fontSize: 25,
       height: 120,
-      width: 2,
+      width: 1,
       fontOptions: "bold",
     }
   });
@@ -42,7 +42,7 @@ function App() {
   }
 
   return (
-    <div className="App max-h-screen max-w-screen">
+    <div className="App max-h-full max-w-screen">
       <div className="gradient" />
       <main className="flex flex-col items-center justify-center">
         <h1 className="p-5 m-7 lg:text-6xl text-4xl mb-28 font-extrabold text-center">Get your own barcode!</h1>
