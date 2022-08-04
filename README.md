@@ -18,6 +18,6 @@
     - [ ] different barcode width on different screen sizes
     - [ ] svg download option
     - [ ] different barcode types
-    - [ ] all of [these](https://www.npmjs.com/package/next-barcode) features
+    - [ ] all of [these](https://www.npmjs.com/package/next-barcode#options) features
 
 - [X] convert to PWA
