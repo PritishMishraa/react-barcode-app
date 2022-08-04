@@ -2,7 +2,7 @@
   <img src="screenshot.png">
   
   # react-barcode-app
-  a react PWA that generates custom barcodes which can be downloaded
+  a react PWA that generates custom barcodes that can be downloaded
 
 </div>
 
