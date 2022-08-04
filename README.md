@@ -20,4 +20,4 @@
     - [ ] different barcode types
     - [ ] all of [these](https://www.npmjs.com/package/next-barcode#options) features
 
-- [X] convert to PWA
+- [X] PWA support
